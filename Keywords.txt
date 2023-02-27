@@ -1,0 +1,32 @@
+DAX FUNCTIONS IN POWER BI.
+
+1. There are three types of DAX context	 
+i) Row
+ii) Query 
+iii)Filter
+2. Related Function()
+
+
+1. Implicit Measure (Auto calculation based on data types)
+2. Explicit Measure (we define through formulas and functions)
+3. How to define a variable :
+
+ VAR <Name of variable> = Expression 
+
+ Return (Desire result).
+
+
+
+4. All order function
+5. Filter Function
+6 Cross filter function
+7. Count()
+8. CountA()
+9. CountBlank()
+10. Distinct COunt()
+
+
+
+1. SUMX Function
+2. RankX Function
+3. 
